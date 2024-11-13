@@ -2,9 +2,8 @@ title: "Blog của Nguyễn Năng Anh"
 description: "Blog cá nhân trên GitHub Pages với Jekyll"
 theme: minima
 
-# Kích hoạt theme tối
-minima:
-  skin: dark
+# Cấu hình các trang tùy chỉnh
+paginate: 5 # Số bài viết mỗi trang
 
 # Cấu hình tác giả và các liên kết mạng xã hội
 author:

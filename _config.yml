@@ -11,14 +11,12 @@ author:
   name: "Nguyễn Năng Anh"
   links:
     - label: "Facebook"
-      url: "https://facebook.com/your_facebook_username" # Thay bằng tên người dùng Facebook của bạn
-    - label: "TikTok"
-      url: "https://tiktok.com/@your_tiktok_username" # Thay bằng tên người dùng TikTok của bạn
+      url: "https://www.facebook.com/profile.php?id=100035191161128&mibextid=LQQJ4d" # Thay bằng tên người dùng Facebook của bạn
     - label: "Instagram"
-      url: "https://instagram.com/your_instagram_username" # Thay bằng tên người dùng Instagram của bạn
-    - label: "LinkedIn"
-      url: "https://linkedin.com/in/your_linkedin_username" # Thay bằng tên người dùng LinkedIn của bạn
-    - label: "GitHub"
+      url: "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fnguyennanganh_ig%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2oLHRiUKJ_HaKcxnqkYDHJSN75yHJmBQaEhEquxfQBpHWQenkTdjRu1YU_aem_gqQ15hme95YDVDD705uu2w&h=AT0GH7WoEgtZFT62vmAsXOAJQCswfyLUsGJH5eSxAUryjjDk_jBkeaGd1Aki9SHa2SPYJNKO760Ni-x1WLuY8bDn8jy1U7L9JdBr71notcqBKsc8D1Rv5YTUf_aLd6qbmwRs" # Thay bằng tên người dùng Instagram của bạn
+    # - label: "LinkedIn"
+    #   url: "https://linkedin.com/in/your_linkedin_username" # Thay bằng tên người dùng LinkedIn của bạn
+    # - label: "GitHub"
       url: "https://github.com/nguyennanganh" # Đường dẫn GitHub của bạn
 
 # Thông tin cấu hình bài đăng

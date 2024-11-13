@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Chào mừng đến với Blog của Nguyễn Năng Anh
 
 Đây là blog cá nhân của tôi, nơi tôi chia sẻ những trải nghiệm, kiến thức và những gì tôi học được. Hãy cùng khám phá các bài viết nhé!

@@ -21,7 +21,3 @@ author:
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year-:month-:day/:title/
-
-# Tùy chỉnh khác (có thể thêm nếu cần)
-url: "https://nguyennanganh.github.io" # Địa chỉ GitHub Pages của bạn
-baseurl: "" # Để trống nếu blog của bạn ở tên miền gốc của GitHub Pages

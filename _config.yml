@@ -15,3 +15,8 @@ author:
       url: "https://www.instagram.com/nguyennanganh_ig"
     - label: "GitHub"
       url: "https://github.com/nguyennanganh"
+
+# Các cấu hình khác nếu cần
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year-:month-:day/:title/ # Cấu hình đường dẫn bài viết

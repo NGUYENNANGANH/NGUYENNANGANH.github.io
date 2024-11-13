@@ -1,6 +1,5 @@
 ---
 layout: page
-# title: "Chủ đề Cuộc sống"
 permalink: /life/
 ---
 

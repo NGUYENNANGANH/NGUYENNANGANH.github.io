@@ -4,8 +4,6 @@ layout: page
 permalink: /life/
 ---
 
-# Các bài viết về Cuộc sống
-
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "Cuộc sống" %}

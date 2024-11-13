@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cuoc song o que"
+# title: "Cuoc song o que"
 permalink: /oque/
 ---
 

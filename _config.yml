@@ -15,11 +15,3 @@ author:
       url: "https://www.instagram.com/nguyennanganh_ig"
     - label: "GitHub"
       url: "https://github.com/nguyennanganh"
-
-# Cấu hình tiêu đề chủ đề cho các bài đăng (nếu cần nhưng không hiển thị ở title)
-defaults:
-  - scope:
-      path: ""
-    values:
-      title: "Blog của Nguyễn Năng Anh"
-      description: "Blog cá nhân của Nguyễn Năng Anh"

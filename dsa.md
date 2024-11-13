@@ -6,6 +6,7 @@ permalink: /dsa/
 
 # Các bài viết về DSA
 
+<!--
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "DSA" %}
@@ -14,4 +15,4 @@ permalink: /dsa/
       </li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul> -->

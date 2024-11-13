@@ -1,8 +1,4 @@
 title: "Blog của Nguyễn Năng Anh"
 description: "Blog cá nhân trên GitHub Pages với Jekyll"
 theme: minima  # hoặc một theme khác mà GitHub Pages hỗ trợ
-social_links:
-  facebook: "https://facebook.com/username"
-  tiktok: "https://tiktok.com/@username"
-  twitter: "https://twitter.com/username"
-  instagram: "https://instagram.com/username"
+

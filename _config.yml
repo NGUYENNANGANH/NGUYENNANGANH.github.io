@@ -1,22 +1,26 @@
-# title: "Blog của Nguyễn Năng Anh"
+title: "Blog của Nguyễn Năng Anh"
 description: "Blog cá nhân của Nguyễn Năng Anh"
 theme: jekyll-theme-darkly
 
 # Cấu hình các trang tùy chỉnh
-paginate: 1# Số bài viết mỗi trang
+paginate: 5 # Số bài viết mỗi trang
 
 # Cấu hình tác giả và các liên kết mạng xã hội
 author:
   name: "Nguyễn Năng Anh"
   links:
     - label: "Facebook"
-      url: "https://www.facebook.com/profile.php?id=100035191161128&mibextid=LQQJ4d" # Thay bằng tên người dùng Facebook của bạn
+      url: "https://www.facebook.com/profile.php?id=100035191161128&mibextid=LQQJ4d"
     - label: "Instagram"
-      url: "https://www.instagram.com/nguyennanganh_ig" # Thay bằng tên người dùng Instagram của bạn
+      url: "https://www.instagram.com/nguyennanganh_ig"
     - label: "GitHub"
-      url: "https://github.com/nguyennanganh" # Đường dẫn GitHub của bạn
+      url: "https://github.com/nguyennanganh"
 
 # Thông tin cấu hình bài đăng
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year-:month-:day/:title/
+
+# Cấu hình URL của trang
+url: "https://nguyennanganh.github.io"
+baseurl: "" # Để trống nếu blog của bạn ở tên miền gốc của GitHub Pages

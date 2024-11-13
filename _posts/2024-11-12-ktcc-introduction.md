@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Giới thiệu về ktct"
+date: 2024-11-12
+categories: [ktct]
+---
+
 # Kinh tế chính trị
 
 ![Untitled](Kinh%20te%CC%82%CC%81%20chi%CC%81nh%20tri%CC%A3%20c53a6f1170f54be8b73c6d5ea8e1b777/Untitled.png)

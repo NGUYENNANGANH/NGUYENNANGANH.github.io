@@ -1,7 +1,5 @@
 ---
 layout: home
-# title: "Blog của Nguyễn Năng Anh"
-# description: "Chào mừng đến với blog cá nhân của tôi!"
 ---
 
 # Chào mừng đến với Blog của Nguyễn Năng Anh

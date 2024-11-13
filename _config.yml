@@ -2,6 +2,10 @@
 description: "Blog cá nhân của Nguyễn Năng Anh"
 theme: minima
 
+# Kích hoạt theme tối
+minima:
+  skin: dark
+
 # Cấu hình các trang tùy chỉnh
 paginate: 1# Số bài viết mỗi trang
 

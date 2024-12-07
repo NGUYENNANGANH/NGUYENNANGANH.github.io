@@ -21,10 +21,11 @@ Java là một ngôn ngữ lập trình mạnh mẽ được phát triển bởi
 ### 2. Chương Trình "Hello World"
 
 Chương trình đầu tiên mà ai cũng viết khi học lập trình là "Hello World". Dưới đây là mã nguồn Java đơn giản:
-
+![Desktop View](/post/20241208/image.png){: width="972" height="589" }
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
+

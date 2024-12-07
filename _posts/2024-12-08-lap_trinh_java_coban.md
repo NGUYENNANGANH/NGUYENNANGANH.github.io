@@ -4,6 +4,7 @@ title: Hướng Dẫn Lập Trình Java Cơ Bản
 date: 12-08-2024
 categories: [programming, Java]
 tags: [basic, tutorial]
+comments: true
 ---
 
 # Lập trình Java
@@ -150,7 +151,7 @@ public static void main(String[] args) {
         
 - Quy tắc đặt tên biến
     
-    <aside>
+   <aside>
     💡
     
     1. Tên biến chỉ chứa chữ cái (a-z , A-Z) , chứ số (0-9), và dấu gạch chân _ , và dấu $ 
@@ -161,4 +162,6 @@ public static void main(String[] args) {
     
     Ví dụ: int tuoiCon = 15;
     
-    </aside>
+    </aside> 
+    
+

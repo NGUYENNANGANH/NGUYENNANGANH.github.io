@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: post
 title: java
 date: 12-08-2024
 categories: [programming, Java]
 tags: [basic, tutorial]
----
+--- -->
 
 # Lập trình Java
 
